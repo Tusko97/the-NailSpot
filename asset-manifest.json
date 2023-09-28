@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-nail-spot/static/css/main.9959a092.css",
+    "main.js": "/the-nail-spot/static/js/main.902fc275.js",
+    "static/js/787.c87cc3b7.chunk.js": "/the-nail-spot/static/js/787.c87cc3b7.chunk.js",
+    "index.html": "/the-nail-spot/index.html",
+    "main.9959a092.css.map": "/the-nail-spot/static/css/main.9959a092.css.map",
+    "main.902fc275.js.map": "/the-nail-spot/static/js/main.902fc275.js.map",
+    "787.c87cc3b7.chunk.js.map": "/the-nail-spot/static/js/787.c87cc3b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9959a092.css",
+    "static/js/main.902fc275.js"
+  ]
+}

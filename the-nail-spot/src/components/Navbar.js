@@ -15,7 +15,7 @@ function Navbar() {
           </li>
           <li>
             {" "}
-            <Link to="/Our Services">
+            <Link to="/OurServices">
               <i className="fa-regular fa-calendar-days mr-1"></i>Our Services
             </Link>{" "}
           </li>
@@ -28,7 +28,7 @@ function Navbar() {
           <li>
             {" "}
             <Link to="/Contact">
-              <i classname="fa-solid fa-right-to-bracket mr-1"></i>Contact
+              <i className="fa-solid fa-right-to-bracket mr-1"></i>Contact
             </Link>{" "}
           </li>
         </ul>

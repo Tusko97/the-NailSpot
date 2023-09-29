@@ -5,9 +5,8 @@ import Home from "./components/Home";
 import Contact from "./components/Contact";
 import BookASlot from "./components/BookASlot";
 import OurServices from "./components/OurServices";
-import Header from "./components/Header";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+
 import "./styles.css"
 
 

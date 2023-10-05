@@ -3,10 +3,6 @@ import { Link } from "react-router-dom";
 import './Navbar.css'
 
 function Navbar() {
-  const backgroundColor ={
-    backgroundColor: "navy blue",
-    
-  }
   return (
     <nav style className="bg-white h-20 text-gray-600 w-full px-40 flex items-center justify-between">
      <div className="Navbar-background">

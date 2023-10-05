@@ -5,7 +5,7 @@ import './Navbar.css'
 function Navbar() {
     
   return (
-    <nav className="Navbar-background">
+    <nav>
      <div className="bg-white h-20 text-gray-600 w-full px-40 flex items-center justify-start">
       <div>
         <ul className="flex gap-4 items-center">

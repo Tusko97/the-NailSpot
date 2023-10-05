@@ -43,7 +43,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tusko.github.io/the-nail-spot",
+  "homepage": "https://the-nail-spot.netlify.app",
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }

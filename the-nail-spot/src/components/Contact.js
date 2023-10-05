@@ -22,11 +22,22 @@ const Contact= () => {
   };
 
   return (
-    <>
-      
-      <div className="container">
-        <h1 className="text-center">Contact Us</h1>
-        <hr />
+    
+    <div className="container">
+      <div className="flex gap-4">
+        <div className="w-1/2">
+        <h1 className="text-gray-700 border-b-2 border-rose-600 font-bold">Contact us</h1>
+        <br></br>
+          <img src="https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3VzdG9tZXIlMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="Booking" className="w-full" />
+        </div>
+        <div className="w-1/2 p-4 flex flex-col gap-4">
+          <div className="flex gap-2 text-4xl items-center">
+            <div className="h-24 w-24 rounded-full bg-rose-600 text-white flex items-center justify-center">
+              <i className="fa-solid fa-heart"></i>
+            </div>
+            <h1 className="text-gray-700 border-b-2 border-rose-600 font-bold">Contact us</h1>
+          </div>
+          </div>
         <br></br>
         <div className="row my-4 h-100">
           <div className="col-md-4 col-lg-4 col-sm-8 mx-auto">
@@ -82,7 +93,7 @@ const Contact= () => {
                   <p className="text-success">Thank you for your feedback!</p>
                 ) : (
                   <button
-                    className="my-2 px-4 mx-auto btn btn-dark"
+                   className="bg-rose-600 p-2 text-white rounded-lg hover:opacity-80"
                     type="submit"
                   >
                     Send
@@ -93,12 +104,13 @@ const Contact= () => {
           </div>
         </div>
       </div>
+      </div>
       
       
       
       
-      <Footer />
-    </>
+      
+    
   );
 };
 

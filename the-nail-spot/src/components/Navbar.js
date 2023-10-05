@@ -3,9 +3,10 @@ import { Link } from "react-router-dom";
 import './Navbar.css'
 
 function Navbar() {
+    
   return (
-    <nav style className="bg-white h-20 text-gray-600 w-full px-40 flex items-center justify-between">
-     <div className="Navbar-background">
+    <nav className="Navbar-background">
+     <div className="bg-white h-20 text-gray-600 w-full px-40 flex items-center justify-start">
       <div>
         <ul className="flex gap-4 items-center">
           <li>

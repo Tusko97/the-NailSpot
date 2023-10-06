@@ -28,7 +28,7 @@ function Home(){
       <div className="container">
       <div className="flex gap-4">
         <div className="w-1/2">
-        <img src={imageUrl} alt="Booking" className="w-full" style={{width: "1000%", height: "50%", padding:'20px'}}/>
+        <img src={imageUrl} alt="Booking" className="w-full rounded-full" style={{ aspectRatio: "16/9", padding: "20px" }}/>
           <div className="relative" style={{paddingBottom: '56.25%'}}>
         <video Autoplay 
               muted

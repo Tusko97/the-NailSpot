@@ -30,7 +30,7 @@ function Home(){
         <div className="w-1/2">
         <img src={imageUrl} alt="Booking" className="w-full rounded-full" style={{ aspectRatio: "16/9", padding: "20px" }}/>
           <div className="relative" style={{paddingBottom: '56.25%'}}>
-        <video Autoplay 
+        <video autoplay
               muted
              controls 
              className="absolute top-0 left-0 w-full rounded-full" style={{ padding: '5px' }}>
@@ -61,6 +61,7 @@ In each moment you spend with us, we aspire to uplift your spirit, rejuvenate yo
              <div className = "image-container" style={{marginRight: "20px"}}>
                     <img src = 'https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGhhaXIlMjBzYWxvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60' 
                     alt = "1"
+                    className="w-full rounded-full"
                     style={{ width: "100%", height: "40%", padding:'40px' }}
                     />
             </div>
@@ -68,12 +69,14 @@ In each moment you spend with us, we aspire to uplift your spirit, rejuvenate yo
              <div className = "image-container" style={{marginRight: "20px"}}>
              <img src="https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGhhaXIlMjBzYWxvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" 
                   alt =" 2"
+                  className="w-full rounded-full"
                   style={{ width: "100%", height: "40%", padding:'20px' }}
             />
             </div>
             <div className="image-container" style={{marginLeft: "40px"}}>
                 <img src="https://plus.unsplash.com/premium_photo-1682098317954-252ddfcda75e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fGhhaXIlMjBzYWxvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
                      alt= "3"
+                     className="w-full rounded-full"
                      style= {{width: "100%", height: "40%", padding:'20px'}}
              />
              </div>
@@ -84,6 +87,7 @@ In each moment you spend with us, we aspire to uplift your spirit, rejuvenate yo
         <div className="w-1/2">
           <img src="https://images.unsplash.com/photo-1580618662966-832a2dcea59f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxoYWlyJTIwc2Fsb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
           alt="6"
+          className="w-full rounded-full"
           style= {{width: "100%", height: "100%", padding:"20px"}} />
         </div>
         <div className="w-1/2 p-4 flex flex-col gap-4">

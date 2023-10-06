@@ -28,7 +28,16 @@ function Home(){
       <div className="container">
       <div className="flex gap-4">
         <div className="w-1/2">
-          <img src={imageUrl} alt="Booking" className="w-full" style={{width: "100%", height: "80%", padding:'20px'}}/>
+        <img src={imageUrl} alt="Booking" className="w-full" style={{width: "1000%", height: "50%", padding:'20px'}}/>
+          <div className="relative" style={{paddingBottom: '56.25%'}}>
+        <video Autoplay 
+              muted
+             controls 
+             className="absolute top-0 left-0 w-full rounded-full" style={{ padding: '5px' }}>
+            <source src="/videos/dance_-_32938 (1080p).mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
+          </div>
         </div>
         <div className="w-1/2 p-4 flex flex-col gap-4">
           <div className="flex gap-2 text-4xl items-center">

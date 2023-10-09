@@ -80,10 +80,10 @@ const BookASlot = () => {
                 type="service"
                 className="form-control"
                 id="service"
-                name="serive"
+                name="service"
                 placeholder="manicure, pedicure, hair styling etc "
                 value={service}
-                onChange={(e) => setEmail(e.target.value)}
+                onChange={(e) => setService(e.target.value)}
                 required
               />
             </div>

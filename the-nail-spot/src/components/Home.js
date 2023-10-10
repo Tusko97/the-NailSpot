@@ -44,6 +44,7 @@ function Home(){
             <div className="h-24 w-24 rounded-full bg-rose-600 text-white flex items-center justify-center">
               <i className="fa-solid fa-heart"></i>
             </div>
+            <h1 style={{color:"yellow"}}>About Us</h1>
             <p style={{ fontSize: '22px', fontFamily: 'Arial, sans-serif', color:"white", textAlign: "center" }}>At The Nailspot, our unwavering mission is to empower and inspire unwavering confidence in our cherished clients through the delivery of outstanding nail and hair services. We are passionately committed to crafting an oasis of hospitality and relaxation, where the artistry of beauty harmoniously melds with the marvels of innovation. With our dedicated team of seasoned professionals, we passionately utilize premium-grade products and infuse every service with a personal touch that celebrates your unique essence.
 
 Our resolute mission extends beyond mere pampering; it is to etch an indelible mark of beauty, wellness, and self-care into your heart and soul. We aim to create an experience that transcends the ordinary—a sanctuary where each visit to The Nailspot is a transformative journey.

@@ -2,9 +2,11 @@ import React from 'react';
 
 const Footer = () => {
   const footerStyle = {
-    fontStyle: 'semi-italic',
+    fontStyle: 'Arial, sans-serif',
     fontSize: '22px',
-    color: 'black'
+    color: 'black',
+    textAlign: "center"
+
   };
  
   return (

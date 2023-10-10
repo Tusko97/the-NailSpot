@@ -6,7 +6,7 @@ function OurServices() {
   const services = [
     {
       title: 'Manicure',
-      description: 'Description: Manicures involve the care and beautification of the hands and nails. This service includes nail shaping, cuticle care, and nail polish application.',
+      description: 'Manicures involve the care and beautification of the hands and nails. This service includes nail shaping, cuticle care, and nail polish application.',
       imageSrc:"https://images.unsplash.com/photo-1632345031435-8727f6897d53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFuaWN1cmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
@@ -41,17 +41,17 @@ function OurServices() {
     },
     {
       title: 'Eyelash Extensions',
-      description: 'Special packages for brides and those attending special events, including bridal makeup, hair styling, and nail services.',
+      description: "involve applying individual synthetic or natural hair fibers to a person's natural eyelashes to enhance length, thickness, and curl.",
       imageSrc:"https://images.unsplash.com/photo-1589710751893-f9a6770ad71b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZXllbGFzaCUyMGV4dGVuc2lvbnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
     },
     {
       title: 'Bridal and Special Occasion Services',
-      description: 'Nail art includes creative and decorative designs painted on nails, offering a unique and personalized touch.',
+      description: 'Special packages for brides and those attending special events, including bridal makeup, hair styling, and nail services.',
       imageSrc:"https://images.unsplash.com/photo-1662833835232-07db8a7f1570?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJyaWRhbCUyMHNlcnZpY2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
     },
     {
       title: 'Nail Art',
-      description: 'Description of Service 10',
+      description: 'Nail art includes creative and decorative designs painted on nails, offering a unique and personalized touch.',
       imageSrc:"https://images.unsplash.com/photo-1604902396830-aca29e19b067?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmFpbCUyMGFydHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     // Add more services as needed

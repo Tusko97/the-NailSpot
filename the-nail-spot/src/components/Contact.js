@@ -28,7 +28,8 @@ const Contact= () => {
         <div className="w-1/2">
         <h1 className="text-gray-700 border-b-2 border-rose-600 font-bold">Contact us</h1>
         <br></br>
-          <img src="https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3VzdG9tZXIlMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="Booking" className="w-full" />
+        <br></br>
+          <img src="https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3VzdG9tZXIlMjBzZXJ2aWNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60" alt="Booking" className="w-full rounded-full" />
         </div>
         <div className="w-1/2 p-4 flex flex-col gap-4">
           <div className="flex gap-2 text-4xl items-center">

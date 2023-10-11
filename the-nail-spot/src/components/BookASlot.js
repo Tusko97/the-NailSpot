@@ -32,7 +32,7 @@ const BookASlot = () => {
     <div className="container">
       <div className="flex gap-4">
         <div className="w-1/2">
-          <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym9vayUyMGFuJTIwYXBwb2ludG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Booking" className="w-full" />
+          <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Ym9vayUyMGFuJTIwYXBwb2ludG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60" alt="Booking" className="w-full rounded-full" />
         </div>
         <div className="w-1/2 p-4 flex flex-col gap-4">
           <div className="flex gap-2 text-4xl items-center">

@@ -38,7 +38,7 @@ const Contact= () => {
             </div>
             <h1 className="text-gray-700 border-b-2 border-rose-600 font-bold">Contact us</h1>
           </div>
-          </div>
+          
         <br></br>
         <div className="row my-4 h-100">
           <div className="col-md-4 col-lg-4 col-sm-8 mx-auto">
@@ -104,6 +104,7 @@ const Contact= () => {
             </form>
           </div>
         </div>
+      </div>
       </div>
       </div>
       
